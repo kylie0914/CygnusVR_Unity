@@ -39,7 +39,7 @@ This project integrates scientific data visualization with an Oculus Quest 2 VR 
 ### 2. Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kylie0914/CygnusVR_Unity.git
+   https://github.com/kylie0914/CygnusVR_Unity-.git
 
 2. Open in Unity Hub.
 3. Connect Oculus Quest 2 via USB
