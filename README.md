@@ -62,15 +62,14 @@ This project integrates scientific data visualization with an Oculus Quest 2 VR 
   
 --- 
 
-## Tech Stack
+## Software instruction 
 - **Engine**: Unity (2022.3.5f)
 - **VR Platform**: Oculus Quest 2 (OpenXR)
 - **Programming Language**: C#
 - **Graphics Optimization**: GPU Instancing
 - **Additional Softwares**:
-  - Unity Hub
-  - Oculus developer App
-  - SideQuest
+  - Unity Hub 
+  - Meta Quest Developer Hub
   
 
    
