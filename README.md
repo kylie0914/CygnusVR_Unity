@@ -8,7 +8,7 @@ This project integrates scientific data visualization with an Oculus Quest 2 VR 
 
 ## Features
 - **3D EV Data Visualization**
-  - Plots clustering results
+  - Plots clustering results in 3D VR scene
   - Color-coded biomarker categories
   - GPU instancing for performance optimization
 
@@ -17,9 +17,9 @@ This project integrates scientific data visualization with an Oculus Quest 2 VR 
   - Grab, move, and rotate data clusters
   - Toggle visibility of biomarker categories via UI panels
 
-- **Dynamic Analysis Tools**
-  - Panel display for active biomarkers when pointing at data points
-  - Real-time biomarker count per selection
+- **Immersive Visualization**
+  - Interactive panels integrated into the VR environment
+  - View and compare multiple analysis results in real-time
 
 ---
 
