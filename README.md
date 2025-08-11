@@ -37,6 +37,11 @@ This project integrates scientific data visualization with an Oculus Quest 2 VR 
 - Unity Hub installed
 - Unity Editor 2022.5.3f or later with **Android Build Support**
 - Oculus Quest 2 with developer mode enabled
+- Andoird 8.0 (Oreo), API level 26 is the minimum version for Oculus SDK (Oculus is working based on smartphone OS)
+  - Android SDK Platform, API level 26
+  - Android SDK Build Tools, v 28.0.3 or later
+  - Android NDK
+
 
 ### 2. Installation
 1. Clone this repository:
@@ -47,6 +52,11 @@ This project integrates scientific data visualization with an Oculus Quest 2 VR 
 3. Connect Oculus Quest 2 via USB
 4. Build and Run (File -> Build settings -> Andoird -> Build and Run)
 
+### 3. Test deivce spec.
+- VR device: Oculus Quest2
+- Development Env. : Window 10 (linux and mac does not supported)
+- GPU: GTX1080Ti
+  
 --- 
 
 ## Tech Stack
