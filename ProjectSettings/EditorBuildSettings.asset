@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sang_PJT/Scenes/0_CSB_HOME.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Sang_PJT/Scenes/2D_scene.unity
+    guid: 3278f3627ff57d64794fd5bcc40695b5
+  - enabled: 0
+    path: Assets/Sang_PJT/Scenes/Panorama_scene@swipe.unity
+    guid: 7c6c8400cfd5b0146826f767c7e3c92b
+  - enabled: 0
+    path: Assets/Sang_PJT/Scenes/1_Clustering_v2.unity
+    guid: 9dc45706e472f8a41850b896cdfcbcb5
+  - enabled: 1
+    path: Assets/Sang_PJT/Scenes/2_Panorama_scene.unity
+    guid: 8ae0fc0997e6a7742b2a537d8da03ce1
+  - enabled: 0
+    path: Assets/Sang_PJT/Scenes/99_test.unity
+    guid: be1aeb0da4f1c714d9fcb5a5668f7f55
+  - enabled: 0
+    path: Assets/Sang_PJT/Scenes/99_dynamic batching.unity
+    guid: 9ae389d27a45e1f4d8e30556b6d940b4
+  - enabled: 1
+    path: Assets/Sang_PJT/Scenes/1_Clustering_v3.unity
+    guid: 67120acd7ddf883478376005b5701641
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ad4050bc0deda4e238354e959df0f1f4,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b53b89ca9241447b0a56ff61fa931615,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: f4f50c8f8f3454c90a388877cf1a2c81,
+      type: 2}
