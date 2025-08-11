@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f394e5879ba12294b8ce8e07b4548dc6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dataLoader: {instanceID: 0}
+  - objMesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  - HD_mat: {instanceID: 0}
+  - T1_mat: {instanceID: 0}
+  - T2_mat: {instanceID: 0}
+  - T34_mat: {instanceID: 0}
+  - Dataholder_object: {instanceID: 0}
+  - HD_holder_object: {instanceID: 0}
+  - T1_holder_object: {instanceID: 0}
+  - T2_holder_object: {instanceID: 0}
+  - T34_holder_object: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
