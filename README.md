@@ -23,13 +23,17 @@ This project integrates scientific data visualization with an Oculus Quest 2 VR 
 
 ---
 
-## Tech Stack
-- **Engine**: Unity (2022.5.3f)
-- **VR Platform**: Oculus Quest 2 (OpenXR)
-- **Programming Language**: C#
-- **Graphics Optimization**: GPU Instancing
+## Related Cygnus Modules
+1. **Cygnus_analysis (R)**  
+   Data preprocessing, statistical analysis, and visualization.  
+   [View Repository](https://github.com/yeinchung/Cygnus.git)
+
+2. **Cygnus_ImageJ_plugin**  
+   ImageJ plugin for EV image processing and measurement.  
+   [View Repository](https://github.com/YOUR_USERNAME/Cygnus_ImageJ_plugin)
 
 --- 
+
 ## Installation
 ### 1. Prerequisites
 - Unity Hub installed
@@ -44,5 +48,13 @@ This project integrates scientific data visualization with an Oculus Quest 2 VR 
 2. Open in Unity Hub.
 3. Connect Oculus Quest 2 via USB
 4. Build and Run (File -> Build settings -> Andoird -> Build and Run)
+
+--- 
+
+## Tech Stack
+- **Engine**: Unity (2022.5.3f)
+- **VR Platform**: Oculus Quest 2 (OpenXR)
+- **Programming Language**: C#
+- **Graphics Optimization**: GPU Instancing
 
    
