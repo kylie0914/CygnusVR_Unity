@@ -31,7 +31,7 @@ This project integrates scientific data visualization with an Oculus Quest 2 VR 
 
 2. **Cygnus_ImageJ_plugin**  
    ImageJ plugin for EV image processing and measurement.  
-   [Cygnus ImageJ Plugin](github 링크 추가 -imagej plugin)
+   [Cygnus ImageJ Plugin](https://github.com/kylie0914/Cygnus_ImageJ_Plugin)
 
 --- 
 
